@@ -1,0 +1,1 @@
+This Java program generates a calendar for a specific month and year input by the user. It validates the month, then calculates and displays the month's calendar, including the correct day of the week for the 1st of the month. The program handles leap years and displays the calendar in a readable format with the days of the week.
